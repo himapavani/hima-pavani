@@ -1,0 +1,54 @@
+{
+  "career":{
+    "info":"to pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+"education":[
+  {
+    "degree":"S.S.C",
+    "school":"paddu school",
+    "data":["2013","9.8"]
+  },
+
+  {
+    "degree":"inter",
+    "school":"sri chaithanya",
+    "data":["2015","92%"]
+  },
+  {
+    "degree":"b.tech(cse)",
+    "school":"G.PULLAIAH college of engineering",
+    "data":["2015","70%"]
+  }
+],
+"skills":[
+  {
+    "name":"languages",
+    "info":["r","c#","java","python","c++","c","php"]
+
+  },
+  {
+      "name":"operating system",
+      "info":["win-10","fedora","redHat","ubuntu"]
+
+    },
+    {
+        "name":"data bases",
+        "info":["my sql","mondoDB","oracle","pdo"]
+
+    },
+    {
+      "name":"web technologies",
+      "info":["html","javascrip","css"]
+    },
+    {
+      "name":"frame works",
+      "info":[".net","bootstrap","redHat","ubuntu"]
+
+    },
+    {
+      "name":"libraries",
+      "info":["jquery"]
+
+    }
+]
+}
